@@ -1,4 +1,4 @@
-Implementing Aristotle in WebProtege.
+Implementing Aristotle for WebProtege.
 
 WebProtégé
 ==========
